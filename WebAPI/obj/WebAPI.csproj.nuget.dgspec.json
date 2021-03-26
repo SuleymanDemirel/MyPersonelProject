@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suley\\source\\repos\\MyProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\Business.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,11 +33,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -85,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -138,6 +142,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"
@@ -163,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -192,11 +200,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -236,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -265,8 +273,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
               }
             }
           }
@@ -302,14 +310,14 @@
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -331,17 +339,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Business\\Business.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }

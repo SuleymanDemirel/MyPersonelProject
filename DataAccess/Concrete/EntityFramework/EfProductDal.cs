@@ -20,12 +20,16 @@ namespace DataAccess.Concrete.EntityFramework
                 var result = from p in context.Products
                              join c in context.Categories
                              on p.CategoryId equals c.CategoryId
+                             join  ı in context.ProductsImages
+                             on p.ProductId equals ı.ProductId
                              select new ProductDetailDto
                              {
                                  ProductId = p.ProductId,
                                  ProductName = p.ProductName,
                                  CategoryName = c.CategoryName,
-                                 UnitPrice= p.UnitPrice
+                                 UnitPrice= p.UnitPrice,
+                                 Description = p.Description,
+                                 ImagePath = ı.ImagePath
                              };
                 return result.ToList();
 

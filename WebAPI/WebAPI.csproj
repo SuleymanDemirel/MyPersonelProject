@@ -15,5 +15,13 @@
     <ProjectReference Include="..\Entities\Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Wwwroot\Images\55b113d3-dde0-4d6e-8c68-8c9f7dc74106_3_26_2021.jpg" />
+    <None Include="Wwwroot\Images\8c56c9f9-3a65-4a8b-8e6d-1a784d4e136e_3_26_2021.png" />
+    <None Include="Wwwroot\Images\9b11ad1c-7b0f-4e5b-991c-9504f0859e64_3_26_2021.png" />
+    <None Include="Wwwroot\Images\c480c2f1-94f9-41fc-aad3-6f8038014c05_3_26_2021.jpg" />
+    <None Include="Wwwroot\Images\d4461f0f-558b-433e-99e5-a20570694e53_3_26_2021.jpg" />
+  </ItemGroup>
+
 
 </Project>

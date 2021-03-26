@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {}
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj": {
+    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -56,6 +56,10 @@
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

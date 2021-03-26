@@ -13,10 +13,11 @@ namespace WebAPI.Controllers
     public class ProductsController : ControllerBase
     {
         IProductService _productService;
-
-        public ProductsController(IProductService productService)
+        private IProductImageService _productImageService;
+        public ProductsController(IProductService productService, IProductImageService productImageService) 
         {
             _productService = productService;
+            _productImageService = productImageService;
         }
 
         [HttpGet("getall")]
