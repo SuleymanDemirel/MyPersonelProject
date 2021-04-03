@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -36,6 +37,16 @@ namespace WebAPI.Controllers
         {
             var result = _productService.GetProductDetails();
             if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        [HttpPost("add")]
+        public IActionResult Add(Product product) // client'dan,angular'dan,react'dan vs. gönderdiğin ürünü buraya koy.
+        {
+            var result = _productService.Add(product);
+            if (result.Success)// işlem sonucu true ise
             {
                 return Ok(result);
             }

@@ -53,11 +53,12 @@ namespace Core.Utilities.Helper
         {
             FileInfo fileInfo = new FileInfo(file.FileName);
             string fileExtension = fileInfo.Extension;
-            string path = $"{Directory.GetCurrentDirectory()}{@"Wwwroot\Images\"}";
+
+            string path = Environment.CurrentDirectory + @"\Wwwroot\Images";
             var newGuid = Guid.NewGuid().ToString() + "_" + DateTime.Now.Month + "_" + DateTime.Now.Day + "_" + DateTime.Now.Year + fileExtension;
 
             string result = $@"{path}\{newGuid}";
             return result;
         }
-    } 
+    }
 }

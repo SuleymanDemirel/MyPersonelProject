@@ -142,5 +142,5 @@ C:\Users\suley\source\repos\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\Web
 C:\Users\suley\source\repos\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\suley\source\repos\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\suley\source\repos\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
-C:\Users\suley\source\repos\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\suley\source\repos\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\suley\source\repos\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\suley\source\repos\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

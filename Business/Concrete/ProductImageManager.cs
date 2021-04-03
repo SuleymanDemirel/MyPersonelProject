@@ -23,11 +23,11 @@ namespace Business.Concrete
         }
         public IResult Add(IFormFile file, ProductImage productImage)
         {
-            IResult result = BusinessRules.Run(CheckIfProductImageLimitExceded(productImage));
-            if (result != null)
-            {
-                return result;
-            }
+            //IResult result = BusinessRules.Run(CheckIfProductImageLimitExceded(productImage));
+            //if (result != null)
+            //{
+            //    return result;
+            //}
             productImage.ImagePath = FileHelper.Add(file);
             productImage.ImageDate = DateTime.Now;
             _productImageDal.Add(productImage);

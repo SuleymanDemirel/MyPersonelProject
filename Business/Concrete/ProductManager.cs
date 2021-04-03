@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.Constant;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
@@ -19,6 +20,7 @@ namespace Business.Concrete
             _productDal = productDal;
             _categoryService = categoryService;
         }
+        //[SecuredOperation("product.add,admin")]
         public IResult Add(Product product)
         {
             _productDal.Add(product);
@@ -51,6 +53,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails(),Messages.ProductDetailsListed);
         }
 
+        [SecuredOperation("product.add,admin")]
         public IResult Update(Product product)
         {
             throw new NotImplementedException();
