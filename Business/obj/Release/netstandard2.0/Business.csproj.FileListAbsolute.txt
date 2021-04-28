@@ -1,0 +1,16 @@
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Business.deps.json
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Business.dll
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Business.pdb
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Core.dll
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\DataAccess.dll
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Entities.dll
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Entities.pdb
+C:\Users\suley\source\repos\MyPersonelProject\Business\bin\Release\netstandard2.0\Core.pdb
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.dll
+C:\Users\suley\source\repos\MyPersonelProject\Business\obj\Release\netstandard2.0\Business.pdb

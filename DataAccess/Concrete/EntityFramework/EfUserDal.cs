@@ -5,6 +5,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using Entities.DTOs;
+using System.Linq.Expressions;
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -22,6 +24,26 @@ namespace DataAccess.Concrete.EntityFramework
                 return result.ToList();
 
 
+            }
+        }
+
+        public List<UserForRegisterDto> GetUserDetails(Expression<Func<User, bool>> filter = null)
+        {
+            using (CekilisDbContext context = new CekilisDbContext())
+            {
+                var result = from u in filter == null ? context.Users : context.Users.Where(filter)
+
+                             select new UserForRegisterDto
+                             {
+                              
+                                 Email = u.Email,
+                                 FirstName = u.FirstName,
+                                 LastName = u.LastName
+                                 
+
+
+                             };
+                return result.ToList();
             }
         }
     }

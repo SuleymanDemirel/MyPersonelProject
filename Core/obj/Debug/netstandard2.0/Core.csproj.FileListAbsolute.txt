@@ -16,3 +16,12 @@ C:\Users\suley\source\repos\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core
 C:\Users\suley\source\repos\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\Users\suley\source\repos\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\suley\source\repos\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\Core\obj\Debug\netstandard2.0\Core.pdb

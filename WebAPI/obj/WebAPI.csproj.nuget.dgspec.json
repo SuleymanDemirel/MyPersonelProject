@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj": {
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\obj\\",
+        "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -33,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -93,27 +88,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -191,27 +181,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -224,11 +209,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -264,27 +249,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -297,8 +277,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj"
               }
             }
           }
@@ -330,27 +310,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -363,17 +338,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Business\\Business.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Core\\Core.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suley\\source\\repos\\MyPersonelProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -415,7 +390,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
