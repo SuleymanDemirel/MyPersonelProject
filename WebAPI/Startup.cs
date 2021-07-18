@@ -38,6 +38,7 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSwaggerDocument();
             //services.AddSingleton<IProductService,ProductManager>();
             //services.AddSingleton<IProductDal, EfProductDal>();
             services.AddCors();
@@ -80,6 +81,8 @@ namespace WebAPI
 
             app.UseRouting();
 
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
             app.UseAuthentication();
 
             app.UseAuthorization();

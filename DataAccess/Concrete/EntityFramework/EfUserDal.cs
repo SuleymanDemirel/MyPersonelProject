@@ -38,7 +38,8 @@ namespace DataAccess.Concrete.EntityFramework
                               
                                  Email = u.Email,
                                  FirstName = u.FirstName,
-                                 LastName = u.LastName
+                                 LastName = u.LastName,
+                                 id = u.Id
                                  
 
 

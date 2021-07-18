@@ -39,10 +39,10 @@ C:\Users\Suleyman\Desktop\MyPersonelProject\Business\bin\Debug\netstandard2.0\En
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\bin\Debug\netstandard2.0\Core.pdb
-C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Suleyman\Desktop\MyPersonelProject\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache

@@ -205,7 +205,6 @@ C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Busin
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
@@ -218,3 +217,15 @@ C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAP
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Suleyman\Desktop\MyPersonelProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs

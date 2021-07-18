@@ -8,7 +8,11 @@ namespace Business.Constant
 {
     public class Messages
     {
-        public static string ProductAdded = "Ürün eklendi.";
+        public static string TicketAdd = "Bilet Eklendi.";
+        public static string TicketListed = "Bilet alanlar listelendi .";
+
+
+
         public static string ProductListed = "Ürün listelendi.";
         public static string ProductDetailsListed = "Ürün detayları listelendi.";
         public static string ProductImageAdded = "Ürün Fotoğrafı Eklendi.";

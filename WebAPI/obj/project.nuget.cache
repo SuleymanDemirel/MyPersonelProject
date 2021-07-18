@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L0u++aGRW8weiyxIw+zEA0Ey65OLVn2N11+CPzrYo4z5y8Lxw0D2N1fEdXAYHTMTBc1nE6y/q/MzrSJ4Ls7DYA==",
+  "dgSpecHash": "gklyabA3Ygvntv48gIltsH/hUXpsJ+9KowUsEM0aYhAul1BRuUXcAGm9PLtlDZ7I7pYmQIF3ISesOn96Ln3O4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Suleyman\\Desktop\\MyPersonelProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.11\\microsoft.entityframeworkcore.analyzers.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.11\\microsoft.entityframeworkcore.relational.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.11\\microsoft.entityframeworkcore.sqlserver.3.1.11.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.11\\microsoft.extensions.caching.abstractions.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.11\\microsoft.extensions.caching.memory.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.11\\microsoft.extensions.configuration.3.1.11.nupkg.sha512",
@@ -30,6 +31,8 @@
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.11\\microsoft.extensions.configuration.binder.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.11\\microsoft.extensions.dependencyinjection.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.0\\microsoft.extensions.fileproviders.embedded.3.1.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.logging\\3.1.11\\microsoft.extensions.logging.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.11\\microsoft.extensions.logging.abstractions.3.1.11.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
@@ -45,7 +48,16 @@
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\namotion.reflection\\1.0.23\\namotion.reflection.1.0.23.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\njsonschema\\10.4.4\\njsonschema.10.4.4.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\njsonschema.yaml\\10.4.4\\njsonschema.yaml.10.4.4.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.annotations\\13.11.3\\nswag.annotations.13.11.3.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.aspnetcore\\13.11.3\\nswag.aspnetcore.13.11.3.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.core\\13.11.3\\nswag.core.13.11.3.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.core.yaml\\13.11.3\\nswag.core.yaml.13.11.3.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.generation\\13.11.3\\nswag.generation.13.11.3.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\nswag.generation.aspnetcore\\13.11.3\\nswag.generation.aspnetcore.13.11.3.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -115,7 +127,8 @@
     "C:\\Users\\Suleyman\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Suleyman\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Suleyman\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Suleyman\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Suleyman\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
   ],
   "logs": []
 }

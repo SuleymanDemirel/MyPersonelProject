@@ -33,10 +33,10 @@ C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\bin\Debug\netstandard2.0\
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Suleyman\Desktop\MyPersonelProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
